@@ -2,3 +2,5 @@
 
 - this **Text** is Lorem
 - This _Text_
+-This *Text* is Lorem-
+-This -Text- is Lorem-
