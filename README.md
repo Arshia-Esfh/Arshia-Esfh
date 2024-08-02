@@ -64,3 +64,9 @@ This *Text* is Okay
 
 
 ----
+
+# Tables
+
+| Col 1 | Col 2 | Col 3 |
+| -- | --| -- |
+| Row 1 Col1 | Row 2 Col 2 | Row 3 Col 3 |
