@@ -12,3 +12,5 @@ This *Text* is Okay
 -This is *Text*
 
 -This is **Lorem**
+
+-This is ***Text*** Lorem
