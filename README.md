@@ -82,5 +82,5 @@ ____
 
 |  Age |  Languages |  Experince |
 | -- | -- | -- |
-|  18  | Javascript |      2    |
+|  18  | Javascript |         2    |
 
