@@ -20,3 +20,12 @@ This *Text* is Okay
 
 > I am `Full Stack` Developer
 >> I am Learning wordpress
+>
+--------
+
+
+
+```diff
++const plus=()=>true
+-const minus=()=>jwtToken
+```
