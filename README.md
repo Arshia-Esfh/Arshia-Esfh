@@ -66,8 +66,8 @@ This *Text* is Okay
 ----
 
 1.FrontEnd
- 1.Js
- 2.React
- 3.Typescript
+  1. Js
+  2. React
+  3. Typescript
 
 
