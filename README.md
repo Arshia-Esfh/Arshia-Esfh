@@ -64,16 +64,3 @@ This *Text* is Okay
 
 
 ----
-
-1.FrontEnd
-  1. Js
-  2. React
-  3. Typescript
-  4. Php
-  5. JQuery
-  6. 
-2.BackEnd
-  3.  Php
-  4.  Node.js
-  5.  Java
- 
