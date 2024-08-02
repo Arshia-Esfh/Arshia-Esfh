@@ -17,4 +17,5 @@ ___
 
 ### My whole activity
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/Arshia-Esfh/github-readme-stats)
 
