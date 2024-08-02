@@ -7,3 +7,4 @@
 
 ___
 This *Text* is Okay
+-This ***Text*** is Bold
