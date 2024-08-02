@@ -70,5 +70,9 @@ This *Text* is Okay
 | Col 1 | Col 2 | Col 3 |
 | -- | --| -- |
 | Row 1 Col1 | Row 2 Col 2 | Row 3 Col 3 |
-| -- | -- | -- |
-|     1      |      2       |       3
+| Row 2 Col1 | Row 2 Col 2 | Row 3 Col 3 |
+| Row 3 Col1 | Row 2 Col 2 | Row 3 Col 3 |
+| Row 4 Col1 | Row 2 Col 2 | Row 3 Col 3 |
+| Row 5 Col1 | Row 2 Col 2 | Row 3 Col 3 |
+
+
