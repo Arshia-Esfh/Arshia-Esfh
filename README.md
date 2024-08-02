@@ -54,3 +54,11 @@ This *Text* is Okay
   </li>
 </ul>
 
+-----
+
+```diff
+-const check=()=>ei2
+
++const checkout=()=>false
+```
+
