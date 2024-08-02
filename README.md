@@ -25,3 +25,9 @@ ___
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshia-Esfh&hide_progress=true)
 
+
+
+---
+### Another Chart --
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshia-Esfh&langs_count=8)
+
