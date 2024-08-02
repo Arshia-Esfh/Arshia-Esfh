@@ -71,4 +71,4 @@ This *Text* is Okay
 | -- | --| -- |
 | Row 1 Col1 | Row 2 Col 2 | Row 3 Col 3 |
 | -- | -- | -- |
-|     1      |      2      |     3
+|     1      |      2       |       3
