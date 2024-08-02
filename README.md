@@ -76,3 +76,12 @@ This *Text* is Okay
 | Row 5 Col1 | Row 2 Col 2 | Row 3 Col 3 |
 
 
+
+____
+
+
+|  Age |  Languages |  Experince |
+|  --  |     --     |     
+
+|  18  | Javascript |       2    |
+
