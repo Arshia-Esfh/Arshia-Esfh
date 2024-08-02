@@ -19,3 +19,9 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/Arshia-Esfh/github-readme-stats)
 
+
+
+### Another Chart
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshia-Esfh&hide_progress=true)
+
