@@ -1,2 +1,2 @@
 # من کی ام ؟ 💻
-<img src="route/js.png">
+<img src="route/js">
