@@ -31,4 +31,4 @@
  <h2 align="right">تماس با من📞</h2>
 
 
-<a href="https://instagram.com/front-end"><img src="https://github.com/Arshia-Esfh/Arshia-Esfh/blob/main/icons8-instagram-48.png?raw=true"></a>
+<a href="https://instagram.com/front-end"><img align="left" src="https://github.com/Arshia-Esfh/Arshia-Esfh/blob/main/icons8-instagram-48.png?raw=true" alt="instagram"></a>
