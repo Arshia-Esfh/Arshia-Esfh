@@ -54,3 +54,7 @@
 <br />
 
 <h3 align="left">🖥 React | 45%</h3> <img width="159.3pxpx" src="https://github.com/Arshia-Esfh/Arshia-Esfh/blob/main/photo_2024-08-06_15-54-00.jpg?raw=true">
+
+<br /> 
+
+<h3 align="left">🖥 CSS | 68%</h3> <img width="240.72px" src="https://github.com/Arshia-Esfh/Arshia-Esfh/blob/main/photo_2024-08-06_15-54-00.jpg?raw=true">
