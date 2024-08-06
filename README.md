@@ -49,4 +49,4 @@
 
 <h2 align="right">الان دارم با اینا کار میکنم💻</h2>
 
-<h3 align="left">🖥 Javascript | 80%</h3> <img src="https://github.com/Arshia-Esfh/Arshia-Esfh/blob/main/photo_2024-08-06_15-54-00.jpg?raw=true">
+<h3 align="left">🖥 Javascript | 80%</h3> <img width="282.2px" src="https://github.com/Arshia-Esfh/Arshia-Esfh/blob/main/photo_2024-08-06_15-54-00.jpg?raw=true">
